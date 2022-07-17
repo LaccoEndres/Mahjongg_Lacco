@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Start.unity
+    guid: 5ce417c21788a3a4aa26d352be1fb676
+  - enabled: 1
+    path: Assets/_Project/Scenes/Level_UI.unity
+    guid: c9f27df6da0d8d948a5da9891caf029d
+  - enabled: 1
+    path: Assets/_Project/Scenes/Victory.unity
+    guid: 30de5af9f2babb34e83a3f5fc97df56b
+  - enabled: 1
+    path: Assets/_Project/Scenes/GameOver.unity
+    guid: fb6c046ca5894c64ca99ba80f49bf90f
+  - enabled: 1
+    path: Assets/_Project/Scenes/Pause.unity
+    guid: fde4c6bd4a3f6c14a9194791a30c4b71
+  - enabled: 1
+    path: Assets/_Project/Scenes/Level1.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Project/Scenes/Level2.unity
+    guid: db1cf03ccead1e64fb12ca144d41d826
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e7cfc990a9ab37a4aa901c4c685ed5da,
+      type: 2}

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.Mahjongg_Lacco.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\Freelances\Mahjongg_Lacco\.idea\.idea.Mahjongg_Lacco\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
